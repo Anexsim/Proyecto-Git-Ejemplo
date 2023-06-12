@@ -4,7 +4,7 @@ Sub Resumentodos()
 ' Resumento de todo
 '
 
-'
+'asdklfjasdfñasdf
     Columns("C:L").Select
     Selection.NumberFormat = "0.00"
     Selection.NumberFormat = "#,##0.00"
